@@ -4,7 +4,7 @@
 - Interested in Software Engineering, Web Development, Graphic Design and Computer Graphics
   
 # Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,python,java,cpp, dart, html, js, sql, r)
+![Languages](https://skillicons.dev/icons?i=c,python,java,cpp,dart,html,js,sql,r)
 
 # Frameworks
-![Tech](https://skillicons.dev/icons?i=clion, react, vscode, git, cmake, django, firebase, flutter, github, gitlab, idea, latex, mongodb, mysql, ps)
+![Tech](https://skillicons.dev/icons?i=clion,react,vscode,git,cmake,django,firebase,flutter,github,gitlab,idea,latex,mongodb,mysql,ps)
