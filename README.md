@@ -5,7 +5,7 @@
 - Take a look at my projects: https://oddnona.github.io/
   
 # Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,python,java,cpp,dart,html,js,r)
+<img src="https://skillicons.dev/icons?i=c,python,java,cpp,dart,html,js,r" alt="Programming Languages">
 
 # Frameworks
 ![Tech](https://skillicons.dev/icons?i=clion,react,vscode,git,cmake,django,firebase,flutter,github,gitlab,idea,latex,mongodb,mysql,ps)
